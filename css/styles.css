@@ -1,0 +1,45 @@
+body {
+  background-color: #B1D7B4;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #CDF0EA;
+  border-width: 6px;
+  width: 100%;
+}
+
+h1 {
+  font-family: cursive;
+  color: #1C6758;
+}
+
+h3 {
+  font-family: cursive;
+  color: #1C6758;
+}
+
+p {
+  font-family: cursive;
+}
+
+td {
+  font-family: cursive;
+}
+
+th {
+  font-family: cursive;
+}
+
+label {
+  font-family: cursive;
+}
+
+input {
+  font-family: cursive;
+}
+
+textarea {
+  font-family: cursive;
+}
