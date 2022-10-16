@@ -1,5 +1,6 @@
 body {
   background-color: #B1D7B4;
+  font-family: 'Merriweather', serif;
 }
 
 hr {
@@ -11,20 +12,14 @@ hr {
 }
 
 h1 {
-  font-family: cursive;
   color: #1C6758;
 }
 
 h3 {
-  font-family: cursive;
   color: #1C6758;
 }
 
-p {
-  font-family: cursive;
-}
-
-td {
+/*td {
   font-family: cursive;
 }
 
@@ -34,14 +29,11 @@ th {
 
 label {
   font-family: cursive;
-}
-
+}*/
 input {
-  font-family: cursive;
   background-color: #CEE5D0;
 }
 
 textarea {
-  font-family: cursive;
   background-color: #CEE5D0;
 }
